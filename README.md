@@ -11,7 +11,7 @@
    3. [via-IR](Preknowledge/3-via-IR.md)
    4. [memory-safe](Preknowledge/4-memory-safe.md)
    
-2. 内存布局
+2. 内存结构
 
    1. Array
    2. Struct
@@ -20,6 +20,14 @@
    5. String
      ...
 
+3. calldata结构
+
+   1. Array
+   2. Struct
+   3. Mapping
+   4. Bytes
+   5. String
+     ...
 
 ## 通过手写opcode来了解EVM执行细节
 
